@@ -1,5 +1,5 @@
 # Data Science and Machine Learning Bootcamp with R by Jose Portilla
-This repository was used throughout the Udemy course which contains various R concepts and Jose and exercise solutions solved by me.
+This repository was used throughout the Udemy course which contains various R concepts taught by Jose and exercises solved by me.
 
 # Course Contents
 - Course Introduction
