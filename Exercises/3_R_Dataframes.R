@@ -56,3 +56,4 @@ avg.mpg
 
 #Ex 12: What is the mpg of the Hornet Sportabout?
 df['Hornet Sportabout', 'mpg']
+
